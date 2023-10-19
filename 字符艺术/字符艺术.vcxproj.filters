@@ -37,5 +37,6 @@
     <Text Include="标头.txt">
       <Filter>资源文件</Filter>
     </Text>
+    <Text Include="bugs.txt" />
   </ItemGroup>
 </Project>

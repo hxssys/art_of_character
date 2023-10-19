@@ -1,3 +1,8 @@
 #pragma once
-小球的status【10】
-status[0]: 是否静止不动
+一、state的用法：
+	0：true 不动 false 可移动
+	1：true 下落 false 不下落
+	2：true 落下屏幕 false 不落下屏幕
+二、撞击种类
+	0：圆形
+	1：矩形
